@@ -1,0 +1,36 @@
+{
+  "name": "OneUp - 1% Better Every Day",
+  "short_name": "OneUp",
+  "description": "Track daily improvements and build consistency with compound growth",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#6366F1",
+  "background_color": "#FAFAFA",
+  "categories": ["productivity", "lifestyle", "health"],
+  "lang": "en",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iMjQiIGZpbGw9InVybCgjZ3JhZGllbnQwX2xpbmVhcl8xXzEpIi8+CjxwYXRoIGQ9Ik05NiA0OEw3MiA4NEg4NFY5NkgxMDhWODRIMTIwTDk2IDQ4WiIgZmlsbD0id2hpdGUiLz4KPHA+dGggZD0iTTk2IDE0NEw3MiAxMDhIODRWOTZIMTA4VjEwOEgxMjBMOTYgMTQ0WiIgZmlsbD0id2hpdGUiLz4KPGRlZnM+CjxsaW5lYXJHcmFkaWVudCBpZD0iZ3JhZGllbnQwX2xpbmVhcl8xXzEiIHgxPSIwIiB5MT0iMCIgeDI9IjE5MiIgeTI9IjE5MiIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgo8c3RvcCBzdG9wLWNvbG9yPSIjNjM2NkYxIi8+CjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzEwQjk4MSIvPgo8L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+Cjwvc3ZnPgo=",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iNjQiIGZpbGw9InVybCgjZ3JhZGllbnQwX2xpbmVhcl8xXzEpIi8+CjxwYXRoIGQ9Ik0yNTYgMTI4TDE5MiAyMjRIMjI0VjI1NkgyODhWMjI0SDMyMEwyNTYgMTI4WiIgZmlsbD0id2hpdGUiLz4KPHA+dGggZD0iTTI1NiAzODRMMTkyIDI4OEgyMjRWMjU2SDI4OFYyODhIMzIwTDI1NiAzODRaIiBmaWxsPSJ3aGl0ZSIvPgo8ZGVmcz4KPGxpbmVhckdyYWRpZW50IGlkPSJncmFkaWVudDBfbGluZWFyXzFfMSIgeDE9IjAiIHkxPSIwIiB4Mj0iNTEyIiB5Mj0iNTEyIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIHN0b3AtY29sb3I9IiM2MzY2RjEiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMTBCOTgxIi8+CjwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPC9zdmc+Cg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "prefer_related_applications": false,
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjcwIiBoZWlnaHQ9IjQ4MCIgdmlld0JveD0iMCAwIDI3MCA0ODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNzAiIGhlaWdodD0iNDgwIiBmaWxsPSIjRkFGQUZBIi8+Cjx0ZXh0IHg9IjEzNSIgeT0iMjQwIiBmaWxsPSIjNjM2NkYxIiBmb250LXNpemU9IjE4IiBmb250LWZhbWlseT0iYXJpYWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiPk9uZVVwPC90ZXh0Pgo8L3N2Zz4K",
+      "sizes": "270x480",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ]
+}
